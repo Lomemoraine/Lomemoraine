@@ -1,4 +1,4 @@
-### <div align="center">I'm Lorraine, a Software Engineer and CPS security Researcher 👨‍💻</div>  
+### <div align="center">I'm Lorraine, a Machine Learning Researcher and a Software Engineer 👨‍💻</div>  
 
 ## Github Stats 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lomemoraine&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lomemoraine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
